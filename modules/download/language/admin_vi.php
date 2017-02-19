@@ -213,3 +213,4 @@ $lang_module['fileserver_edit'] = 'Sửa FileServer';
 $lang_module['fileserver_error_server_name'] = 'Lỗi: Tên FileServer không được để trống';
 $lang_module['fileserver_error_upload_url'] = 'Lỗi: Tham số upload_url không được để trống';
 $lang_module['fileserver_error_exists'] = 'Lỗi: Tên FileServer bị trùng';
+$lang_module['Browse_server'] = 'máy chủ Duyệt';
