@@ -49,7 +49,7 @@
                 <tr>
                     <td class="text-right"><strong>{LANG.content_homeimg}</strong></td>
                     <td><input class="form-control w500 pull-left" style="margin-right: 5px" type="text" name="image" id="image" value="{image}"/>
-                        <input id="select-img-tag" type="button" value="Browse server" name="selectimg" class="btn btn-info"/></td>
+                        <input id="select-img-tag" type="button" value="{LANG.Browse_server}" name="selectimg" class="btn btn-info"/></td>
                 </tr>
             </tbody>
         </table>
